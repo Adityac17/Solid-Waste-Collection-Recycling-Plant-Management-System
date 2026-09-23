@@ -516,5 +516,5 @@ CREATE DATABASE waste_management;
 
 ---
 
-**Database Project Completed**: September 2026  
+**AUTHOR:- ADITYA SUNIL CHOUKSEY, TANAY SHELAR, JANMESH ROHIDA
 **Total Development Effort**: Comprehensive DBMS implementation with advanced SQL features
